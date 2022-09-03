@@ -25,8 +25,6 @@ Recent events steered the world towards making radical change in the typical wor
 <br /> <br />
 What makes us distinguished from our competitors is that we are honest about what we sell. Experience taught us that there are customers for everything and everything get sold eventually. There is no need to lie. Being honest actually brings more customers. This is our main strength and the reason behind our customer loyalty.
 <br /><br />
-We have an unconventional return policy as well. If you don't like it, you have the option to return it within a week's time without damaging it. We hope that brandstorepk would be a success and we would be able to establish ourselves as a platform, where people can shop with the peace of mind that they are getting exactly what they paid for. Happy Shopping!</p>
-
 </div>
 
 <div className="row" style={{Height:"200px", marginTop:"-290px"}} >
